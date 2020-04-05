@@ -3,7 +3,7 @@
 import VueRouter from "vue-router"
 
 
-// 创建一个路由对象
+// 创建一个路由对象wewe
 let router = new VueRouter({
     routes:[
         
